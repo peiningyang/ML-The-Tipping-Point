@@ -1,4 +1,7 @@
 # IDS705 Machine Learning Final Project: The Tipping Point
+
+**Authors**: [Peining Yang](https://github.com/peiningyang), [Raza Lamb](https://github.com/razalamb1), [Michelle Van](https://github.com/mjtv128), [Shining Yang](https://github.com/ShiningYang0207)
+
 <p align="center">
 <img src="https://github.com/mjtv128/705-FinalProject/blob/main/30_images/chicago-bean.jpeg" width = "700" height = "400">
 </p>
